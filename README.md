@@ -55,5 +55,4 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 - **Cloud Platforms:** AWS (Cloud Web Builder), Google Cloud Platform
 - **Data Visualization:** Tableau, Power BI
 
-Let's connect and collaborate on data-driven projects! 🌐💻
 
