@@ -44,7 +44,7 @@ Actively looking for **a full-time role as a Data Scientist / Data Analyst**
 
 ### Vehicle Crash Data Visualization | Tableau
 
-Analyzed US road accidents data to create a Tableau dashboard for insights on road safety by identifying contributing factors.
+- Analyzed US road accidents data to create a Tableau dashboard for insights on road safety by identifying contributing factors.
 
 For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/overlay/1706057301334/single-media-viewer/?profileId=ACoAADs6JyMBBfJliCz_JdnYVzrvrqqT4hkjft0).
 
