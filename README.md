@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jiwoo Suh <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.gif" alt="🤗" width="32" height="32"> </picture>
+# Jiwoo Suh <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
+</picture>
 
 
 📧 [jiwoo.s.suh@gmail.com](jiwoo.s.suh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
@@ -26,7 +29,10 @@ Here are some ideas to get you started:
 Hi there! I'm Jiwoo Suh, a Data-Driven Storyteller coupled with Analytical and Creative skills for Strategic Problem Solving. 
 Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging data to derive strategic insights and tell compelling stories. 
 
-📢 Actively looking for **a full-time role as a Data Scientist / Data Analyst.**
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
+</picture> Actively looking for **a full-time role as a Data Scientist / Data Analyst.**
 
 ## Projects 🤓
 
