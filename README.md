@@ -51,3 +51,5 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 - **Data Visualization:** Tableau, Power BI
 
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=jiwoosuh&repo=pyphisher&layout=compact&theme=vue)](https://github.com/KasRoudra/github-stats-card)
+
