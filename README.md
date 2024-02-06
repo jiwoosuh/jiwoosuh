@@ -29,7 +29,7 @@ Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging d
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
-</picture> Actively looking for **a full-time role as a Data Scientist / Data Analyst.**
+</picture> Actively looking for a full-time role as a Data Scientist / Data Analyst
 
 ## Projects 🤓
 
