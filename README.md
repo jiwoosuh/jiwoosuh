@@ -39,7 +39,7 @@ Hi there! I'm Jiwoo Suh, a Data-Driven Storyteller coupled with Analytical and C
 
 Analyzed US road accidents data to create a Tableau dashboard for insights on road safety by identifying contributing factors.
 
-For more details, check out my [GitHub repositories](https://github.com/jiwoosuh).
+For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/overlay/1706057301334/single-media-viewer/?profileId=ACoAADs6JyMBBfJliCz_JdnYVzrvrqqT4hkjft0).
 
 ## Skills 😎
 
@@ -47,6 +47,21 @@ For more details, check out my [GitHub repositories](https://github.com/jiwoosuh
 - **Tools:** PyTorch, Transformers, TensorFlow, Streamlit, Sklearn, Pandas, MySQL, Oracle SQL, MongoDB, Linux Shell Script, NLTK, spaCy
 - **Cloud Platforms:** AWS (Cloud Web Builder), Google Cloud Platform
 - **Data Visualization:** Tableau, Power BI
+
+# Databases
+
+## 💾 Databases
+
+- Microsoft SQL Server ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Neo4J ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
+## GitHub Stats
+
+![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoosuh&theme=dark&show_icons=true)
+
 
 Let's connect and collaborate on data-driven projects! 🌐💻
 
