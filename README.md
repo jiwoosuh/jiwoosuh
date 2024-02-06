@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Jiwoo Suh <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32"></picture>
 
 
-📧 [jiwoo.s.suh@gmail.com](jiwoo.s.suh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
+📧 jiwoo.s.suh@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
 
 
 
