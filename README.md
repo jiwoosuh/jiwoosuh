@@ -50,6 +50,3 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 - **Cloud Platforms:** AWS (Cloud Web Builder), Google Cloud Platform
 - **Data Visualization:** Tableau, Power BI
 
-
-[![Jiwoo's-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=jiwoosuh&repo=pyphisher&layout=compact&theme=vue)]
-
