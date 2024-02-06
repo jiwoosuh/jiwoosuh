@@ -48,19 +48,14 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 - **Cloud Platforms:** AWS (Cloud Web Builder), Google Cloud Platform
 - **Data Visualization:** Tableau, Power BI
 
-# Databases
-
-## 💾 Databases
-
-- Microsoft SQL Server ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- Neo4J ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
 
 ## GitHub Stats
 
 ![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoosuh&theme=dark&show_icons=true)
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoosuh&layout=compact&theme=dark)](https://github.com/jiwoosuh)
 
 
 Let's connect and collaborate on data-driven projects! 🌐💻
