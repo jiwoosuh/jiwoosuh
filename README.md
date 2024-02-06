@@ -23,8 +23,6 @@ Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging d
 
 Actively looking for **a full-time role as a Data Scientist / Data Analyst** <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"></picture> 
 
-For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/overlay/1706057301334/single-media-viewer/?profileId=ACoAADs6JyMBBfJliCz_JdnYVzrvrqqT4hkjft0).
-
 ## Projects 🤓
 
 ### Lyric Analyzer and Generation
@@ -41,6 +39,8 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 ### Vehicle Crash Data Visualization | Tableau
 
 - Analyzed US road accident data to create a Tableau dashboard for insights on road safety by identifying contributing factors.
+
+For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/overlay/1706057301334/single-media-viewer/?profileId=ACoAADs6JyMBBfJliCz_JdnYVzrvrqqT4hkjft0).
   
 ## Skills 😎
 
