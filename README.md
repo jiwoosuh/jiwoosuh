@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jiwoo Suh
+# Jiwoo Suh 
 
-📧 jiwoo.s.suh@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
+📧 [jiwoo.s.suh@gmail.com](jiwoo.s.suh@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
+
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.gif" alt="🤗" width="32" height="32">
+</picture>
+
 
 ## About Me 👩‍💻
 
@@ -50,16 +56,6 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 - **Tools:** PyTorch, Transformers, TensorFlow, Streamlit, Sklearn, Pandas, MySQL, Oracle SQL, MongoDB, Linux Shell Script, NLTK, spaCy
 - **Cloud Platforms:** AWS (Cloud Web Builder), Google Cloud Platform
 - **Data Visualization:** Tableau, Power BI
-
-
-## GitHub Stats
-
-![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoosuh&theme=transparent&show_icons=true)
-
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoosuh&layout=compact&theme=transparent)](https://github.com/jiwoosuh)
-
 
 Let's connect and collaborate on data-driven projects! 🌐💻
 
