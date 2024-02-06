@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📧 jiwoo.s.suh@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
 
-Hi there! I'm Jiwoo Suh, a Data-Driven Storyteller coupled with Analytical and Creative skills for Strategic Problem Solving. 
+Hi there! I'm Jiwoo, a Data-Driven Storyteller coupled with Analytical and Creative skills for Strategic Problem Solving. 
 Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging data to derive strategic insights and tell compelling stories. 
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"></picture> 
@@ -51,5 +51,5 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 - **Data Visualization:** Tableau, Power BI
 
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=jiwoosuh&repo=pyphisher&layout=compact&theme=vue)](https://github.com/KasRoudra/github-stats-card)
+[![Jiwoo's-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=jiwoosuh&repo=pyphisher&layout=compact&theme=vue)]
 
