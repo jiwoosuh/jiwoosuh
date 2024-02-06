@@ -51,11 +51,11 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 
 ## GitHub Stats
 
-![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoosuh&theme=dark&show_icons=true)
+![Jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwoosuh&theme=transparent&show_icons=true)
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoosuh&layout=compact&theme=dark)](https://github.com/jiwoosuh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwoosuh&layout=compact&theme=transparent)](https://github.com/jiwoosuh)
 
 
 Let's connect and collaborate on data-driven projects! 🌐💻
