@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 ## About Me 👩‍💻
 
-Hi there! I'm Jiwoo Suh, a Data-Driven Storyteller coupled with Analytical and Creative skills for Strategic Problem Solving. Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging data to derive strategic insights and tell compelling stories. Actively looking for a full-time role as a Data Scientist / Data Analyst.
+Hi there! I'm Jiwoo Suh, a Data-Driven Storyteller coupled with Analytical and Creative skills for Strategic Problem Solving. Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging data to derive strategic insights and tell compelling stories. 
+
+📢 Actively looking for **a full-time role as a Data Scientist / Data Analyst.**
 
 ## Projects 🤓
 
