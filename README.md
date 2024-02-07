@@ -46,6 +46,6 @@ For more details, check out my [Resume](https://www.linkedin.com/in/jiwoosuh/ove
 
 - **Programming Languages:** Python, R, SQL, C++
 - **Tools:** PyTorch, Transformers, TensorFlow, Streamlit, Sklearn, Pandas, MySQL, Oracle SQL, MongoDB, Linux Shell Script, NLTK, spaCy
-- **Cloud Platforms:** AWS (Cloud Web Builder), Google Cloud Platform
+- **Cloud Platforms:** AWS (Cloud Web Builder, SageMaker), Google Cloud Platform
 - **Data Visualization:** Tableau, Power BI
 
