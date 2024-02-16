@@ -18,20 +18,25 @@ Here are some ideas to get you started:
 
 📧 jiwoo.s.suh@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
 
-Hi there! I'm Jiwoo, a Data-Driven Storyteller coupled with Analytical and Creative skills for Strategic Problem Solving. 
+Hi there! I'm Jiwoo, a Data-Driven Storyteller with Analytical and Creative skills for Strategic Problem Solving. 
 Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging data to derive strategic insights and tell compelling stories. 
 
 Actively looking for **a full-time role as a Data Scientist / Data Analyst** <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"></picture> 
 
 ## Projects 🤓
 
-### Lyric Analyzer and Generation
+### Lyric Analyzer and Generation | Python
 
 - Fine-tuned GPT-2 model for lyrics generation.
 - Built a lyrics analyzer with transformer models including BERT, and BART.
 - Developed song popularity prediction models using cosine similarity in lyrics.
 
-### Metro Traffic Volume Analysis and Prediction
+### Heart Disease Analysis and Prediction | Python
+
+- Handled unbalanced binary classification data with the SMOTE method.
+- Developed prediction models including MLP, Logistic Regression, XGBoost, and Random Forest with the best F1 score of 0.8.
+
+### Metro Traffic Volume Analysis and Prediction | Python
 
 - Analyzed hourly traffic volume data to forecast patterns.
 - Used prediction models including ARIMA and SARIMA for efficient traffic planning.
