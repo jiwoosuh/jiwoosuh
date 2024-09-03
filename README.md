@@ -24,6 +24,15 @@ Actively looking for **a full-time role as a Data Scientist / Data Analyst** <pi
 
 ## Projects 🤓
 
+### Digital Transformation for World Bank | Python, data ETL, Transformer, Streamlit [github](https://github.com/jiwoosuh/CapstoneProject_WorldBank)
+
+- Led a team of 3 graduate students for a World Bank project, contributing to the digital transformation efforts for unbanked women in Nigeria.
+- Developed a web application to automate the extraction and transformation of financial data into CSV format, enhancing data accessibility 
+- Boosted data extraction efficiency by 600% using advanced machine learning models to process over 200 unstructured documents.
+- Designed and implemented an interactive visualization dashboard with Streamlit, showcasing financial insights through exploratory data analysis (EDA) and statistical testing.
+- Presented findings to over 100 World Bank employees, receiving positive feedback from a non-technical audience.
+
+
 ### Lyric Analyzer and Generation | Python, LLM, Transformer, Streamlit [github](https://github.com/upmanyu1993/Final_Project_Group5)
 
 - Developed a web app using Streamlit for Artist-specific Lyric Generation & Lyric Analysis.
