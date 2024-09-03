@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 📧 jiwoo.s.suh@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jiwoosuh) | 🚀 [GitHub](https://github.com/jiwoosuh)
 
-Hi there! I'm Jiwoo, a Data-Driven Storyteller with Analytical and Creative skills for Strategic Problem Solving. 
-Currently pursuing a Master's in Data Science @GWU, I specialize in leveraging data to derive strategic insights and tell compelling stories. 
+Hello! I’m a Data Science Professional with a solid foundation of 2 years as a Business Analyst, where I’ve specialized in delivering impactful data insights to senior leadership and guiding data-driven decisions across dynamic industries. With expertise in SQL, Python, and Tableau, and an MS in Data Science, I excel in data preprocessing, visualization, and applying machine learning algorithms to turn complex datasets into actionable insights. I’m also skilled at managing cross-functional projects and effectively communicating data insights to non-technical stakeholders.
 
 Actively looking for **a full-time role as a Data Scientist / Data Analyst** <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"></picture> 
 
